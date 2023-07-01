@@ -1,0 +1,2 @@
+# IST664-NLP-Abstractive-Text-Summarization-using-Multi-head-Attention-Transformers
+IST 664 NLP course project at Syracuse University advanced abstractive text summarization using Multi-head Attention Transformers. It aimed to create a top-performing model for generating concise summaries, surpassing the baseline ROUGE-0.35 score. This contribution enhances NLP by improving information extraction and comprehension.
