@@ -18,3 +18,10 @@ The model was designed and implemented using the Transformer architecture, incor
 Continuous evaluations and analyses were conducted to assess the model's performance and identify areas for improvement. The model architecture was refined, and various techniques such as beam search and length normalization were explored to enhance the quality of the generated summaries.
 
 Through this project, a highly advanced abstractive text summarization model using Multi-head Attention Transformers was successfully developed. The project not only deepened the understanding of Attention models and their applications but also enhanced skills in natural language processing, deep learning, and model evaluation. This research contributes to the field by pushing the boundaries of abstractive text summarization and facilitating improved information extraction and comprehension in various domains.
+
+## Google Drive Link: https://drive.google.com/drive/folders/1Y8KOXkXxsI3iimN6HwhuWz0i8Ai_O7AJ?usp=sharing
+
+# Contributors:
+- Prabin Raj Shrestha
+- Neha Reddy Gaddam
+- Shivani Agarwal
