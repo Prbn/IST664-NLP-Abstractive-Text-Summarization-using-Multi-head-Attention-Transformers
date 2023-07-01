@@ -1,12 +1,12 @@
 # IST664-NLP-Abstractive-Text-Summarization-using-Multi-head-Attention-Transformers
 
 # Abstractive Text Summarization using Multi-head Attention Transformers
-#[Syracuse University: IST 664 Natural Language Processing]
+## [Syracuse University: IST 664 Natural Language Processing]
 
-# Abstract:
+## Abstract:
 This project, conducted as part of the IST 664 Natural Language Processing course at Syracuse University, aimed to push the boundaries of abstractive text summarization by leveraging the power of Multi-head Attention Transformers. The objective was to develop a state-of-the-art model capable of generating concise and coherent summaries of text or articles. Through extensive research, dataset preparation, model design, and optimization, a high-performing summarization model was achieved, surpassing the baseline ROUGE-0.35 score. This project contributes to the field of natural language processing and paves the way for improved information extraction and comprehension.
 
-# Summary:
+## Summary:
 The project focused on advancing the field of abstractive text summarization through the utilization of Multi-head Attention Transformers. The goal was to develop a model that could generate accurate and informative summaries of given text or articles, improving information extraction and comprehension.
 
 Extensive research was conducted to understand Attention models and their relevance in natural language processing, specifically in the context of text summarization. Various techniques and approaches were explored to enhance the abstractive summarization process, aiming to improve the model's ability to generate meaningful and concise summaries.
